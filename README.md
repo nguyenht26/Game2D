@@ -13,3 +13,5 @@ git clone https://github.com/nguyenht26/DowLoadGame.git
 ### Bước 2: Mở Game
 
 Windows: Nhấp đúp vào Game.exe.
+
+
